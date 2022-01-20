@@ -1,8 +1,8 @@
-## Overview of the Analysis
+# Overview of the Analysis
 
 # Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 
-## Results
+# Results
 
 1. Download the ufo_starterCode.js, rename it app.js, and place it in the js folder of your UFOs GitHub repository. The starter code includes the code used to populate the table from this module.
 2. Create four more list elements: city, state, country, and shape. These will be similar to the "Enter Date" list element. Each element should have the same "id" as the object properties in the data.js file.
@@ -17,10 +17,10 @@
 11. In Step 4c, create a variable that saves the attribute of the changed element’s id.
 12. In Step 5, write an if-else statement that checks if a value was changed by the user (variable from Step 4b). If a value was changed, add the element’s id (variable from Step 4c) as the property and the value that was changed to the filters variable you created in Step 1. If a value was not entered, then clear the element id from the filters variable.
 
-## Summary
-# Drawback
+# Summary
+## Drawback
 * The webpage was designed in a simpler format and very less bootstrap function were utilized
 
-# Recomendation
+## Recomendation
 * More bootstrap design element
 * Button could have been fancier 
